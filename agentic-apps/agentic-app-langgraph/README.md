@@ -25,7 +25,7 @@ This architecture enables dynamic, multi-step decision-making Agentic AI **witho
 
 * Be ready to paste your LLM Endpoint, LLM Api Key and Model Name
 
-> NOTE: Model As a Service (MaaS can be perfectly used to this use case).
+> NOTE: Model As a Service (MaaS can be perfectly used to this use case). Alternatively, you can deploy vllm as described in [README-vllm.md](README-vllm.md)
 
 * Use the deploy.sh script to deploy the demo in your namespace:
 
