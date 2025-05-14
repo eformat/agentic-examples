@@ -6,16 +6,16 @@ Explore various **Agentic AI** frameworks and **LLMs** running on Red Hat AI pla
 
 Check out different **Agentic AI** frameworks:  
 
-- [LangGraph](./frameworks/langgraph/)  
+- [**Llama Stack**](./frameworks/llama-stack)
+- [LangGraph](./frameworks/langgraph/)
 - [AutoGen](./frameworks/autogen/)  
 - [PhiData](./frameworks/phidata/)  
 - [SMolAgents](./frameworks/smolagents/)  
-- [CrewAI (coming soon) ⏳](./frameworks/crewAI/)  
 - [Quarkus LangChain4j](./frameworks/quarkus-langchain4j/)
+- [CrewAI (coming soon) ⏳](./frameworks/crewAI/)  
 - [Bee (coming soon) 🐝](./frameworks/bee/)
-- [Llama Stack (coming soon)](./frameworks/llama-stack)
 
-## Agentic AI Apps
+## Agentic AI Apps & Demos
 
 Check out the **Agentic AI Apps** ready to be deployed!:
 
@@ -49,9 +49,9 @@ If you want to know more, follow [this guide](./tools/mcp/)
 
 These examples utilize the following **Large Language Models (LLMs):**  
 
-- [Granite3](https://huggingface.co/ibm-granite)  
+- [Granite3](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct)  
 - [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)  
-- [DeepSeek (coming soon) 🔎](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
+- [Llama3](https://huggingface.co/meta-llama/Llama-3.2-3B)
 
 ## 🤝❤️ Contribute  
 
