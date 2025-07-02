@@ -25,15 +25,15 @@ curl -X POST "http://localhost:8080/ask"      -H "Content-Type: application/json
 ```bash
 uv venv
 source .venv/bin/activate
-uv pip install -r
+uv pip install -r requirements.txt
 ```
 
 * Deploy the Agent/Backend:
 
 ```bash
-cd demos/agentic-app && source .venv/bin/activate
+source .venv/bin/activate
 export MODEL_NAME="bartowski/granite-3.1-8b-instruct-GGUF"
 export API_KEY="None"
 export API_URL="http://localhost:57364"
-python backend/app.py
+python agents/app.py
 ```
